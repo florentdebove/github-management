@@ -1,4 +1,4 @@
 provider "github" {
-  token = "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"
+  token = var.git_token
   owner = "florentdebove"
 }

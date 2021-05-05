@@ -2,8 +2,6 @@ resource "github_repository" "repository" {
    name         = var.reponame
    description  = "nom repository"
 
-    #gitignore_template = var.repository_ignore
-    #private = var.repo_private
 }
 
 # Add a user to the organization

@@ -1,4 +1,4 @@
 provider "github" {
-  token = "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"
-  organization = "florentdebove"
+  token = "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"
+  owner = "florentdebove"
 }

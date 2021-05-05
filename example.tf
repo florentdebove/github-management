@@ -1,6 +1,10 @@
-module "myteam" {
+module "repository" {
   source = "./module/"
 
-  repository = "my-super-repo"
-  team = "member"
+reponame ="test2"
+membername="flo"
+teamname="teamtest"
+repoprive="false"
+repowiki="false"
+repoignore="Terraform"
 }

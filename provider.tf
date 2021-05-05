@@ -1,4 +1,4 @@
 provider "github" {
-  token = "${var.github_token}"
-  owner = "${var.github_owner}"
+  token = "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"
+  organization = "florentdebove"
 }
